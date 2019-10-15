@@ -6,7 +6,8 @@ Annual challenge organised by the french association of radiologists. In 2019 ed
 Present notebooks are a part of lung cancer classification project.
 
 Learning dataset consisted of ~650 3D DICOM images with an typical resolution of 512x512x350 pixels.
-An example of normalized 2D slice from one for 3D image:
+An example of a normalized 2D slice from a random 3D image:
+
 ![alt text](https://github.com/IgorVG/jfr-challenge/blob/master/2D-slice-sample.jpg)
 
 Link to organiser's web-site:
